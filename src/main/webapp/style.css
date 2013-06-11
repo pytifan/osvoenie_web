@@ -1,0 +1,49 @@
+html, body {
+margin: 2%;
+padding: 0;
+width: 100%;
+height: 100%;
+font-size: 100%;
+font-family: Arial, Verdana,Sans-Serif;
+}
+
+head {
+background-position: center;
+background: url(pict/region_logo_small.gif) no-repeat;
+font-size:100%;
+padding: 3%;
+}
+
+#PageFooter
+{
+background-position: center;
+background: url(pict/region_footer.gif) no-repeat;
+text-align: center;
+font-size:100%;
+padding:3%;
+}
+
+table#first, table#second {
+    margin: 0;
+    background: bisque;
+    vertical-align: middle;
+    alignment-adjust: central;
+    border-spacing: 10em 2em;
+}
+
+table {
+   text-align: center;
+   margin: auto;
+   background: bisque;
+   column-fill: auto;
+   text-align: center;
+   padding: auto;
+}
+
+
+[type="text"] {
+  background-color: gainsboro;
+}
+[type="submit"]{
+    background-color: turquoise;
+}
