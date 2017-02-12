@@ -113,13 +113,22 @@
       <version>2.3.16</version>
       <type>jar</type>
     </dependency>
+    <!--<dependency>-->
+      <!--<groupId>eu.verdelhan.samples</groupId>-->
+      <!--<artifactId>jodreports-samples</artifactId>-->
+      <!--<version>0.0.1-SNAPSHOT</version>-->
+    <!--</dependency>-->
+
+    <!-- https://mvnrepository.com/artifact/net.sf.jodreports/jodreports -->
     <dependency>
-      <groupId>eu.verdelhan.samples</groupId>
-      <artifactId>jodreports-samples</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <groupId>net.sf.jodreports</groupId>
+      <artifactId>jodreports</artifactId>
+      <version>2.4.0</version>
     </dependency>
-    
-   <dependency>
+
+
+
+    <dependency>
         <groupId>org.richfaces.ui</groupId>
         <artifactId>richfaces-components-ui</artifactId>
     </dependency>

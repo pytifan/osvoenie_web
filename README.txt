@@ -55,3 +55,7 @@ that JODReports includes software developed by
 
 -- Mirko Nasato (mirko at artofsolving.com)
 -- Terry Liang (terry at poloniouslive.com)
+
+
+soffice -headless -accept="socket,host=127.0.0.1,port=8100;urp;" -nofirststartwizard
+
